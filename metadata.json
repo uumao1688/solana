@@ -2,7 +2,7 @@
   "name": "USDCoin",
   "symbol": "USDC",
   "description": "BRTCoin is a fun community token on Solana.",
-  "image": "https://raw.githubusercontent.com/maidao1688-stack/important/main/usdcoin.png",
+  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/mao.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
     { "trait_type": "Chain", "value": "Solana" }
