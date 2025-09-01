@@ -1,15 +1,15 @@
 {
-  "name": "SNAKE",
-  "symbol": "SNAKE",
-  "description": "SNAKE coin is a fun community token on Solana.",
-  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/SNAKE.png",
+  "name": "PANDA",
+  "symbol": "PANDA",
+  "description": "Panda Token – cute face, savage gains. While others chase the moon, pandas chill, eat bamboo, and still moon harder.",
+  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/PANDA.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
     { "trait_type": "Chain", "value": "Solana" }
   ],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/SNAKE.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/PANDA.png", "type": "image/png" }
     ],
     "category": "image"
   }
