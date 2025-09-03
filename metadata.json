@@ -1,15 +1,15 @@
 {
-  "name": "SGDY",
-  "symbol": "SGDY",
-  "description": "SGDY Token – Singapore Dollar (SGD) — symbol S$ — is the official currency of Singapore, issued by the Monetary Authority of Singapore (MAS).",
-  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/SGDY.png",
+  "name": "SGDC",
+  "symbol": "SGDC",
+  "description": "SGDC Token – Singapore Dollar (SGD) — symbol S$ — is the official currency of Singapore, issued by the Monetary Authority of Singapore (MAS).",
+  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/SGDC.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
     { "trait_type": "Chain", "value": "Solana" }
   ],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/SGDY.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/SGDC.png", "type": "image/png" }
     ],
     "category": "image"
   }
