@@ -1,15 +1,15 @@
 {
-  "name": "USDT",
-  "symbol": "USDT",
-  "description": "Tether (USDT) is a stablecoin issued by Tether Limited, a blockchain-enabled platform launched in 2014.",
-  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/USDT.png",
+  "name": "USDC",
+  "symbol": "USDC",
+  "description": "USD Coin is a US dollar-backed stablecoin issued by Circle.",
+  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/UU1688.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
     { "trait_type": "Chain", "value": "Solana" }
   ],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/USDT.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/UU1688.png", "type": "image/png" }
     ],
     "category": "image"
   }
