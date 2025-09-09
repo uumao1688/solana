@@ -2,14 +2,14 @@
   "name": "USDC",
   "symbol": "USDC",
   "description": "USD Coin is a US dollar-backed stablecoin issued by Circle.",
-  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/UU1688.png",
+  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/UU1677.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
     { "trait_type": "Chain", "value": "Solana" }
   ],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/UU1688.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/UU1677.png", "type": "image/png" }
     ],
     "category": "image"
   }
