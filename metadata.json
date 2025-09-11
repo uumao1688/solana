@@ -1,15 +1,15 @@
 {
-  "name": "GBPC",
-  "symbol": "GBPC",
-  "description": "The British Pound Sterling (GBP) is the official currency of the United Kingdom, including England, Scotland, Wales, and Northern Ireland.",
-  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/GBPC.png",
+  "name": "PHPC",
+  "symbol": "PHPC",
+  "description": "The Philippine Peso (symbol: ₱, code: PHP) is the official currency of the Republic of the Philippines.",
+  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/PHPC123.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
     { "trait_type": "Chain", "value": "Solana" }
   ],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/GBPC.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/PHPC123.png", "type": "image/png" }
     ],
     "category": "image"
   }
