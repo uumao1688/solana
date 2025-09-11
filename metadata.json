@@ -1,15 +1,15 @@
 {
-  "name": "MOP",
-  "symbol": "MOP",
-  "description": "The Macanese Pataca (MOP) is the official currency of Macau, issued by the Monetary Authority of Macao.",
-  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/MOP.png",
+  "name": "GBP",
+  "symbol": "GBP",
+  "description": "The British Pound Sterling (GBP) is the official currency of the United Kingdom, including England, Scotland, Wales, and Northern Ireland.",
+  "image": "https://raw.githubusercontent.com/uumao1688/solana/main/GBP.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
     { "trait_type": "Chain", "value": "Solana" }
   ],
   "properties": {
     "files": [
-      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/MOP.png", "type": "image/png" }
+      { "uri": "https://raw.githubusercontent.com/maidao1688-stack/important/main/GBP.png", "type": "image/png" }
     ],
     "category": "image"
   }
