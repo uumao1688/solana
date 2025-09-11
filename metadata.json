@@ -1,7 +1,7 @@
 {
   "name": "MOP",
   "symbol": "MOP",
-  "description": "MOP Coin is a US dollar-backed stablecoin issued by Circle.",
+  "description": "The Macanese Pataca (MOP) is the official currency of Macau, issued by the Monetary Authority of Macao.",
   "image": "https://raw.githubusercontent.com/uumao1688/solana/main/MOP.png",
   "attributes": [
     { "trait_type": "Category", "value": "Community" },
